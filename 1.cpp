@@ -5,4 +5,3 @@ void main()
   cout<<a*2;
   int const n=10;
 }
-//salam
